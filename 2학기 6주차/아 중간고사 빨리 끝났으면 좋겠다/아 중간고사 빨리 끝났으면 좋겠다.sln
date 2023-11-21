@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "아 중간고사 빨리 끝났으면 좋겠다", "아 중간고사 빨리 끝났으면 좋겠다.vcxproj", "{D3461078-A0BA-4160-BEC0-3A1EAADB9AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3461078-A0BA-4160-BEC0-3A1EAADB9AF3}.Debug|x64.ActiveCfg = Debug|x64
+		{D3461078-A0BA-4160-BEC0-3A1EAADB9AF3}.Debug|x64.Build.0 = Debug|x64
+		{D3461078-A0BA-4160-BEC0-3A1EAADB9AF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3461078-A0BA-4160-BEC0-3A1EAADB9AF3}.Debug|x86.Build.0 = Debug|Win32
+		{D3461078-A0BA-4160-BEC0-3A1EAADB9AF3}.Release|x64.ActiveCfg = Release|x64
+		{D3461078-A0BA-4160-BEC0-3A1EAADB9AF3}.Release|x64.Build.0 = Release|x64
+		{D3461078-A0BA-4160-BEC0-3A1EAADB9AF3}.Release|x86.ActiveCfg = Release|Win32
+		{D3461078-A0BA-4160-BEC0-3A1EAADB9AF3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BCB7A57-9E84-4A05-964A-A4458E103509}
+	EndGlobalSection
+EndGlobal

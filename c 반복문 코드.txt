@@ -1,0 +1,43 @@
+	while (1) {
+		printf("문자(ch) 입력 : ");
+		scanf("%c", &ch);
+		getchar();
+
+		if (ch == 'q' || ch == 'Q') {
+			exit(0);
+		}
+		else if (ch == '' || ch == '') {
+		
+
+			system("pause");
+			system("cls");
+			
+		}
+		else if (ch == '' || ch == '') {
+
+
+			system("pause");
+			system("cls");
+
+		}
+		else if (ch == '' || ch == '') {
+
+
+			system("pause");
+			system("cls");
+			
+		}
+		else if (ch == '' || ch == '') {
+
+
+			system("pause");
+			system("cls");
+
+		}
+		else {
+			printf("다시 입력해라 개새이야");
+
+			system("pause");
+			system("cls");
+		}
+	}

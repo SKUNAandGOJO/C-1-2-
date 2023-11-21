@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\YNC\Documents\나건우 C\2학기 11주차\11 - 3\main.c(20,7): warning C4013: 'kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\YNC\Documents\나건우 C\2학기 11주차\11 - 3\main.c(21,10): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  11 - 3.vcxproj -> C:\Users\YNC\Documents\나건우 C\2학기 11주차\11 - 3\x64\Debug\11 - 3.exe
